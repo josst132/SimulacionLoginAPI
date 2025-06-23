@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\source\\repos\\SimulacionLoginAPI\\SimulacionLoginAPI.sln",
+    "projects": [
+      "SimulacionLoginAPI.csproj"
+    ]
+  }
+}
